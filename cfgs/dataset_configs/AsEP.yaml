@@ -1,0 +1,5 @@
+NAME: AsEP
+DATA_PATH: data/AsEP/epitope-ratio 
+PC_PATH: PATH_TO_DATA
+
+# use_PLMs: True 

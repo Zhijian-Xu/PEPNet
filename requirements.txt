@@ -1,0 +1,13 @@
+Bio==1.8.1
+biopython==1.85
+easydict==1.13
+extensions==0.4
+matplotlib==3.10.8
+numpy==1.23.5
+PyYAML==6.0.2
+scikit_learn==1.4.2
+tensorboardX==2.6.2.2
+termcolor==3.3.0
+timm==0.4.5
+torch==2.0.1+cu118
+tqdm==4.67.1
